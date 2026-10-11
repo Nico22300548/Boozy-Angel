@@ -264,7 +264,7 @@
         Si vous avez des questions concernant cette politique de confidentialité, veuillez nous contacter :
       </p>
       <p>
-        <strong>Email :</strong> support@boozyangel.app<br />
+        <strong>Email :</strong> boozyangel@outlook.com<br />
         <strong>Nom de l'application :</strong> Boozy Angel
       </p>
 
